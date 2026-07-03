@@ -1,0 +1,18 @@
+{
+  "name": "grantforge",
+  "version": "0.1.0",
+  "description": "Full-lifecycle grant writing engine: org profile setup, opportunity discovery, RFP intake, evidence-driven research, professional drafting, budgets, mock-scorer review, and pipeline tracking. Produces submission-ready applications that read like a seasoned grant writer wrote them.",
+  "author": {
+    "name": "Drew Danner"
+  },
+  "keywords": [
+    "grants",
+    "grant-writing",
+    "nonprofit",
+    "proposals",
+    "fundraising",
+    "rfp",
+    "nofo"
+  ],
+  "license": "MIT"
+}

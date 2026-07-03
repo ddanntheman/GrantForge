@@ -1,0 +1,9 @@
+# Local Claude session settings
+.claude/settings.local.json
+
+# GrantForge working data (never commit an org's grant files)
+.grantforge/
+
+# OS cruft
+.DS_Store
+Thumbs.db
